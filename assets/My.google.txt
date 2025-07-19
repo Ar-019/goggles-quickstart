@@ -1,0 +1,12 @@
+! name: My goggles
+! description: benim goggles
+! public: false
+! author: Ar019
+! avatar: #de0320
+
+$discard,site=uptodown.com
+$discard,site=malavida.com
+$discard,site=softonic.com
+
+$boost=3,site=
+$boost=1,site=
